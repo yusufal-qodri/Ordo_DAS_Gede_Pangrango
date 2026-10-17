@@ -1,0 +1,19 @@
+name: subdas-strahler-gede-pangrango
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - rasterio>=1.3
+  - numpy>=1.24
+  - pandas>=2.0
+  - geopandas>=0.14
+  - shapely>=2.0
+  - pyproj>=3.5
+  - matplotlib>=3.7
+  - scipy>=1.10
+  - networkx>=3.0
+  - jupyter
+  - pip
+  - pip:
+      - whitebox>=2.3
+      - matplotlib-scalebar>=0.8

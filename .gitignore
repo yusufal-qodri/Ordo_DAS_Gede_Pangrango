@@ -1,0 +1,13 @@
+# Data input
+*.tif
+*.tiff
+
+# Seluruh hasil analisis
+HASIL_ANALISIS_DAS/
+
+# File sampah umum
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.env
